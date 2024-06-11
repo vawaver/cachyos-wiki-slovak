@@ -3,7 +3,7 @@ title: Konfigurácia Hyprland
 description: CachyOS Hyprland klávesové skratky a FAQ
 ---
 
-:::caution
+:::caution[UPOZORNENIE]
 Keďže Hyprland začal svoju rekonštrukciu, uvedomte si, že momentálne nie je stabilný a môžete zažiť chyby/nečakané pády. Používajte na vlastné riziko.
 Dokonca aj ich "stabilná" verzia je tiež nefunkčná a chybná, preto neplánujeme poskytovať podporu v budúcnosti. Odkazujte na ich wiki.
 :::

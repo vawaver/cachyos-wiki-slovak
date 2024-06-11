@@ -25,7 +25,7 @@ grep . /sys/devices/system/cpu/vulnerabilities/*
 
 Hoci deaktivácia zmierniení zvyšuje výkon, zároveň zvyšuje bezpečnostné riziká.
 
-:::caution
+:::caution[UPOZORNENIE]
 Urobte tak na vlastné riziko.
 :::
 
@@ -37,7 +37,7 @@ Upravte príslušný súbor, aby boli zmeny trvalé:
 - **systemd boot**: `/etc/sdboot-manage.conf`
 - **rEFInd**: `/boot/refind_linux.conf`
 
-:::caution
+:::caution[UPOZORNENIE]
 Deaktivácia týchto zmierniení predstavuje bezpečnostné riziko pre váš systém.
 :::
 

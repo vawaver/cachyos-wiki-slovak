@@ -1,5 +1,5 @@
 ---
-title: Podmienky poskytovania službye
+title: Podmienky poskytovania služby
 ---
 
 ## 1. Rozsah podmienok poskytovania služby
