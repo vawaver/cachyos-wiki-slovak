@@ -95,7 +95,7 @@ export default defineConfig({
               link: 'installation/installation_prepare',
             },
             {
-              label: 'Boot manažéri',
+              label: 'Boot manažéry',
               link: 'installation/bootmanagers',
             },
             {
